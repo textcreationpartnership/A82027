@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death's master-peece: or, a true relation of that great and sudden fire in Towerstreet, London; which came by the fiering [sic] of gunpowder, on Friday the 4th. of January, 1649.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82027</idno>
+            <idno type="STC">Wing D503</idno>
+            <idno type="STC">Thomason E589_16</idno>
+            <idno type="STC">ESTC R206311</idno>
+            <idno type="EEBO-CITATION">99865484</idno>
+            <idno type="PROQUEST">99865484</idno>
+            <idno type="VID">117728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117728)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E589[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death's master-peece: or, a true relation of that great and sudden fire in Towerstreet, London; which came by the fiering [sic] of gunpowder, on Friday the 4th. of January, 1649.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunpowder --  Early works to 1800.</term>
+               <term>Fires --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117728:1" rendition="simple:additions"/>
+            <p>Death's Maſter-Peece: OR, A true Relation of that great and ſudden Fire in <hi>Towerſtreet, London;</hi> which came by the fiering of Gunpowder, on Friday the 4<hi rend="sup">th.</hi> of <hi>January,</hi> 1649.</p>
+            <figure>
+               <figDesc>depiction of a (child's?) skeleton</figDesc>
+            </figure>
+            <p>
+               <add>Jan. 18</add> Printed for <hi>Francis Grove,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117728:2"/>
+            <pb n="1" facs="tcp:117728:2"/>
+            <head>Death's Maſter-Peece: OR, A true Relation of that great and ſudden Fire in <hi>Tower-ſtreet, London,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N <hi>Tower-ſtreet London,</hi> on Fri<g ref="char:EOLhyphen"/>day the 4<hi rend="sup">th</hi> of <hi>January,</hi> 1649. about 8 of the clock at night hapued a lamentable &amp; fear<g ref="char:EOLhyphen"/>ful Fire in a Ship-chandlers house by Gun-powder, as followeth; the ſaid Chandler <hi>Robert Porter</hi> had in his house 27 barrels of Pow<g ref="char:EOLhyphen"/>der, 20 of them was brought down into his ſhop, which he had ſold to the Maſter of a Ship, and to be ſent on board the next day, 7 of them was remaining in his Warehouſe above ſtairs; by
+<pb n="2" facs="tcp:117728:3"/>caſualty and negligence fire came to thoſe in the ſhop, by what means cannot be known, be<g ref="char:EOLhyphen"/>cauſe none in the houſe was left alive to report, and did blow up ſuddenly many houſes, and ſhatter and deface many more.</p>
+            <p>The Houſes that were blown up towards the ſtreet were five fair houſes; Namely,
+<list>
+                  <item>1. The houſe of Mr. <hi>Water Wormewell</hi> Vintner, at the ſign of the <hi>Roſe</hi> in <hi>Towerſtreet,</hi> over againſt <hi>Barkin Church, London.</hi>
+                  </item>
+                  <item>2. The houſe of Mr. <hi>Robert Porter,</hi> Ship<g ref="char:EOLhyphen"/>chandler, in whoſe houſe the fire did begin.</item>
+                  <item>3. The houſe of Mris. <hi>Shaw</hi> a Midwife of good eſteem and quality.</item>
+                  <item>4. The houſe of Mr. <hi>Bradley</hi> a Shooemaker latey come to dwell there.</item>
+                  <item>5. The houſe of Mr. <hi>Charles Compton</hi> a Merch. And Mr. <hi>Woods</hi> houſe a Merch, utterly defac'd.</item>
+               </list>
+            </p>
+            <p>The houſes backward from the ſtreet in an Alley called <hi>Prieſts Alley</hi> which was quite blowne up were theſe. The houſes of
+<list>
+                  <item>
+                     <hi>Mathew Neeve</hi>
+                  </item>
+                  <item>
+                     <hi>James Gizard</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Mabb</hi>
+                  </item>
+                  <item>
+                     <hi>James Roberts</hi>
+                  </item>
+                  <item>
+                     <hi>Mary Fillett</hi>
+                  </item>
+                  <item>
+                     <hi>John Barſto</hi>
+                  </item>
+                  <item>
+                     <hi>William Higley</hi>
+                  </item>
+                  <item>Mris. <hi>Harriſon</hi> a Mi<g ref="char:EOLhyphen"/>niſters Widdow</item>
+                  <item>
+                     <hi>Edward Tapp</hi>
+                  </item>
+                  <item>
+                     <hi>John Laſher</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:117728:3"/>
+            <p> The Houſes that were ſcattered and part beaten downe, ſo that the Inhabitants could not keep poſſeſſion, or dwell in the ſaid hou<g ref="char:EOLhyphen"/>ſes, but were forced to seek other habitations; were, The houſes of
+<list>
+                  <item>
+                     <hi>John Norcott</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Cox</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Sadler</hi>
+                  </item>
+                  <item>Widdow <hi>Boole</hi>
+                  </item>
+                  <item>
+                     <hi>William Stone</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Garrett</hi>
+                  </item>
+                  <item>
+                     <hi>Evan Davis</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Lewis</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Tipper</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pinfold</hi>
+                  </item>
+                  <item>Mr. <hi>Higgins</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Durance</hi>
+                  </item>
+                  <item>Widdow <hi>Pitts</hi>
+                  </item>
+                  <item>VViddow <hi>Madox</hi>
+                  </item>
+                  <item>VViddow <hi>Foſter</hi>
+                  </item>
+                  <item>
+                     <hi>George Gunnis</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Warden</hi>
+                  </item>
+                  <item>VViddow <hi>Povill</hi>
+                  </item>
+                  <item>VViddow <hi>Brookes</hi>
+                  </item>
+                  <item>VViddow <hi>Carter</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Hunt</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Jackson</hi>
+                  </item>
+                  <item>
+                     <hi>John Courteſſe</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Baskaby</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Emry</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Price.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All theſe out of Poſſeſſion.</p>
+            <pb n="4" facs="tcp:117728:4"/>
+            <p> Besides theſe houſes which were made alto<g ref="char:EOLhyphen"/>gether not inhabitable, there were at leaſt an hundred more much ſhattered ſhaken and de<g ref="char:EOLhyphen"/>faced, the tiles blowne off, the glaſſe windowes broken and much hurt done to them, even as farre as into the Tower of <hi>London,</hi> alſo the windowes of the Pariſh Church was wholly all broken and blowne out, thus much for the hurt done by this unhappy accident to the houſes there abouts.</p>
+            <p>Now concerning the perſons that were ſlaine, according to a juſt and true relation, were as followeth.</p>
+            <p n="1">1. In Mr. <hi>Wormewells</hi> houſe, were 16. ſeverall companies, conſiſting of Gentlemen, Mer<g ref="char:EOLhyphen"/>chants, Tradeſmen and diverſe of very good quality, of whom diverſe were ſlaine, and many wounded; but an exact account cannot be given of them but in the generall, among the whole number; but of his owne family were ſlaine, (the maſter of the houſe himſelf being abroad about buſineſſe) his wife, an apprentice, found dead together, alſo a maid ſervant.</p>
+            <p n="2">2. In Mr. <hi>Robert Porters</hi> houſe was ſlaine himſelfe, his wife, his apprentice, his maid ſer<g ref="char:EOLhyphen"/>vant, and a kinſwoman.</p>
+            <p n="3">
+               <pb n="5" facs="tcp:117728:4"/> 3. In Mris. <hi>Shawes</hi> houſe was ſlain her Sonne in law Mr. <hi>Dunne,</hi> who was going into bed, and was blowne out of the houſe into the Church yard in his ſhirt, taken up alive, but died quickly after, three of her Grand-children, and her maid.</p>
+            <p n="4">4. In the houſe of Mr. <hi>Bradley</hi> the Shoo<g ref="char:EOLhyphen"/>maker, was ſlaine, his wife and a ſervant.</p>
+            <p n="5">5. In the houſe of Mr. <hi>Compton</hi> praiſed be God, none</p>
+            <p>In the ſeverall houſes which were burnt in Prieſts-alley, there is miſſing 24. of the Inhabi<g ref="char:EOLhyphen"/>tants, which is conceived to be all deſtroyed and burnt, of whom there is only found ſome parts of their bodies, and of others bare bones, and other quite conſumed, so that no other account can be given of them, but that they buried what parts of the bodies and bones they found among the rubbiſh.</p>
+            <p>So the number buried that were not ſo much disfigured by the fire, but they were known, ſome buried at <hi>Barkin-Church,</hi> and others carried home to their owne places of abode, were 43. and 24. which were so miſſing and found out by peece meal, amounts to three ſcore and ſeven, which is the number that is yet knowne certainly to be kild by this unhappy accident, which were all
+<pb n="6" facs="tcp:117728:5"/>found betwixt Friday the 4<hi rend="sup">th.</hi> of <hi>January,</hi> and Wedneſday the 17<hi rend="sup">th.</hi>
+            </p>
+            <p>The fire after the blow was given did much increaſe, for the space of two houres, till helpe came, and by the endeavour and labour of thoſe that came to helpe, and by the uſe of the En<g ref="char:EOLhyphen"/>gines for quenching of fire which did great ſer<g ref="char:EOLhyphen"/>vice, it were well overcome by morning.</p>
+            <p>Now as concerning the loſſes that came by the fire, it was ſo great that it is not to be knowne, conſidering the loſſe by houſes houſ<g ref="char:EOLhyphen"/>hold goods, Money, Jewells, Plate, Merchandize, wares of all ſorts, is thought to be the greateſt that hath happened in <hi>London</hi> this many yeares, and judged to be threeſcore thouſand pounds.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
